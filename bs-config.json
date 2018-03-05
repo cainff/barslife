@@ -1,0 +1,7 @@
+{
+    "port": 3030,
+    "server": {
+        "baseDir": "./front"
+    },
+    "ui": false
+}
